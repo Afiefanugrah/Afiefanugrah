@@ -42,6 +42,6 @@ I’m excited to continue growing in the web development world and looking forwa
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afiefanugrah&show_icons=true&theme=radical" alt="Afief's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afiefanugrah&show_icons=true&count_private=true&theme=radical" alt="Afief's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afiefanugrah&layout=compact&theme=radical" alt="Top Languages">
 </p>
