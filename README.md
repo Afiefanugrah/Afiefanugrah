@@ -40,6 +40,7 @@ I’m excited to continue growing in the web development world and looking forwa
 </p>
 
 ## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Afiefanugrah&show_icons=true&count_private=true&theme=radical" alt="Afief's GitHub stats">
